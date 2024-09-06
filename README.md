@@ -1,1 +1,3 @@
-# daspro-jobsheet2
+# Dasar Pemrograman - Jobsheer 2
+
+Hello Github, ini adalah repository pertama saya.
